@@ -3,7 +3,7 @@
 
 <head>
   <div>
-    <script src="index.html"></script>
+    <script src="index 2.html"></script>
   </div>
 </head>
 
